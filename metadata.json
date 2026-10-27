@@ -1,0 +1,6 @@
+{
+  "name": "SwiftConvert",
+  "description": "Fast, accurate unit and currency converter with two-way instant conversion, offline formulas, unit search, and conversion history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
